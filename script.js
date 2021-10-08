@@ -51,6 +51,7 @@ function getPrices() {
   return {
     prodTypes: [300, 50000, 70000],
     prodOptions: {
+      option1: 500
       option2: 1000,
       option3: 2000,
     },
